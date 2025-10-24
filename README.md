@@ -23,7 +23,6 @@ The simulator models qubits as complex-valued statevectors and supports the appl
 ## Features  
 - Qubit and multi-qubit state representation.  
 - Implementation of common quantum gates (Hadamard, Pauli-X, CNOT, etc.).  
-- Measurement simulation based on quantum probabilities.  
 - Support for QFT and AQFT experiments.  
 - Comparison with Qiskit for correctness verification.
 
